@@ -101,4 +101,4 @@ For any questions or suggestions, please open an issue in the GitHub repository.
 
 ---
 
-Made with ❤️ and deployed on Vercel
+Made with ❤️ by naga balaji
